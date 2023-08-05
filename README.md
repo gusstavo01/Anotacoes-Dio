@@ -1,1 +1,1 @@
-# Anotações de Estido
+# Anotações de Estudo
