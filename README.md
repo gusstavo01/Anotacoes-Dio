@@ -1,6 +1,6 @@
-# Anotações de Estudo
+# Anotações de Estudo :books: :pencil2:
 
-### Este repositório tem como finalidade registrar as minhas anotações de estudos
+### Este repositório tem como finalidade registrar as minhas anotações de estudos :pushpin:
 
 ### GIT
 
